@@ -6,10 +6,10 @@ Hallo. Ich bin ein kleiner Blindtext. Und zwar schon so lange ich denken kann. E
 
 Bekannte Autohersteller:
 
-*VW
-*Audi
-*BMW
-*...
+* VW
+* Audi
+* BMW
+* ...
 
 **Meine Lieblingsspeisen:**
 
