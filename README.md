@@ -4,7 +4,7 @@ Hallo. Ich bin ein kleiner Blindtext. Und zwar schon so lange ich denken kann. E
 
 [Dieser Fliesstext stammt von Wikipedia](https://designers-inn.de/blindtexte/)
 
-auch hier ein Bild: [Bild](einstein-icon-64.png)
+auch hier ein Bild: [Bild](maichm16/Labor/einstein-icon-64.png)
 
 Bekannte Autohersteller:
 
