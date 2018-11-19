@@ -12,12 +12,21 @@ Varaitne B: neue Variante
 Infos: pi4j.com
 
 Anschlüsse
+  Touch
+  Klinkenstecker
+  HDMI
+  Ethernet
+  Spannungsversorgung
+  SD Kartenleser
 
 Image auf Sd Karte von: https://www.raspberrypi.org/downloads/
 Standard: Raspbian
-
-Debian Stretch:
-
+  Downloadbar mit und ohne Desktop
+  Oft Console ausreichend
+  
+  Befehl:
+  1. Unzip
+  2. dd auf SD karte schieben
 
 Linux Kernel:
   Debian - stretch
@@ -26,3 +35,28 @@ Linux Kernel:
     Raspian
   Red heat
   ...
+
+Raspberry 27:
+  Einlogen: pi
+  Passwort: raspberry
+  Englische Tastatur: z mit y vertauscht
+  
+Sd Karte einschieben und Strom anschalten
+
+Auf Bootpartizion muss ssh Datei geben
+um Über Netzwerk zu arbeiten
+  Passwort ändern!
+
+Protokoll: SSH Protokoll  Secure Shell
+Über Port 22
+
+Linux System: Kommando ssh Standardmäßig vorhanden
+
+Ip Adresse: 10.200.114.227
+ssh 10.200.114.227
+ssh pi@10.200.114.227
+
+Man in the middle attack
+  Durch Fingerprint überprüft
+  
+  
