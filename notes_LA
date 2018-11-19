@@ -55,8 +55,39 @@ Linux System: Kommando ssh Standardmäßig vorhanden
 Ip Adresse: 10.200.114.227
 ssh 10.200.114.227
 ssh pi@10.200.114.227
+als Benutzer Pi einlogen
 
 Man in the middle attack
   Durch Fingerprint überprüft
   
+  ip a
+  Zeig Ip adresse
+  
+  / etc - Hostname ändern mit texteditor
+  
+  sudo nano  /etc/hostname
+  
+  Steuerung + c und Enter zum speichern
+  Steuerung + x exit
+  
+  hexdump -C /etc/hostname
+  cat /etc/hostname
+  
+  less /etc/hostname
+  exit mit Taste q
+  
+  sudo nano /etc/hosts
+  sudo reboot
+  
+  Passwort ändern:
+  passwd
+    geheim2018
+ 
+ immer Superuser
+  sudo -i
+  
+Info
+  man passwd
+  
+  man man
   
