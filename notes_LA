@@ -91,3 +91,5 @@ Info
   
   man man
   
+  /etc/group
+  etc/shadow
