@@ -106,3 +106,13 @@ Info
 less /etc/sudoers
 nano /etc/group
 bei Sudo nuter dazuschreiben für Adminrechte
+
+verzeichnis:
+ls /home/maichm16
+ls /home/pi
+ls /root
+
+ls -la
+Zeigt alles
+
+history
