@@ -91,9 +91,5 @@ nano .ssh/config
 Host Chef
   Hostname IP adresse
   User PI
-  
-  
-
-
 
 ssh NAME
