@@ -46,5 +46,54 @@ installiert tree package
 
 dpkg -- list | WC
 
+ssh -X pi@10.200.114.217
+
+Desktop Programm steuern
+
+xeyes
+
+mit Steuerung z Stoppen
+fg weierlaufen
+bg in den Hintergrund
+
+ps Welche Prozesse laufen
+ps -ef | xeyes
+
+Zeigt alle und Filtert xEyes
+
+kill ()
+Rauswerfen
 
 
+raspi-config
+Raspi Config Commando
+
+
+ssh keygen
+
+öffentlichen Key kopieren
+ssh -cop-id pi@ip
+
+am anderen cat .ssh/authorized_keys 
+
+Kann sofort einlogen der auf dem Rechner sitzt
+
+-> Den Schlüssel ein passwort geben
+
+Einstieg sicherer
+
+WICHITG: vom PC aus
+schlüssel auch
+
+
+nano .ssh/config
+
+Host Chef
+  Hostname IP adresse
+  User PI
+  
+  
+
+
+
+ssh NAME
